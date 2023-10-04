@@ -1,8 +1,8 @@
 ### Oi, Eu sou Rafael Santos
 
-- 🔭 Ainda em busca da minha primeira vaga em TI
-- 🌱 Cursando Análise e Desenvolvimento de sistemas 
-- 🤖 Aprendendo python
+- 🔭 Dev fron-end, atualmente estudando back em C#
+- 🌱 Cursando Engenharia da computação
+- 🤖 Conhecimento em Java, php, sql
 - 😄 Pronouns: ele/dele
 
 <div align="center">
