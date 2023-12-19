@@ -2,7 +2,7 @@
 
 - 🔭 Dev fron-end, atualmente estudando back em C#
 - 🌱 Cursando Engenharia da computação
-- 🤖 Conhecimento em Java, php, sql
+- 🤖 Conhecimento em Java, php, sql, c#
 - 😄 Pronouns: ele/dele
 
 <div align="center">
